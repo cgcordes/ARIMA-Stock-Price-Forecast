@@ -1,6 +1,6 @@
 # ARIMA-Stock-Price-Forecast
 
-A Streamlit-based web application that fetches daily stock closing prices via the Alpha Vantage API and uses an ARIMA(p, d, q) time-series model (with an optional drift) to generate short-term forecasts. Interactive parameters let you choose your stock ticker, forecast horizon, and AR/MA orders, and instantly see both a plotted forecast (with 95% confidence intervals) and the underlying data table.
+A simple Streamlit-based web application that fetches daily stock closing prices via the Alpha Vantage API and uses an ARIMA(p, d, q) time-series model (with an optional drift) to generate short-term forecasts. Interactive parameters let you choose your stock ticker, forecast horizon, and AR/MA orders, and instantly see both a plotted forecast (with 95% confidence intervals) and the underlying data table.
 
 ---
 
