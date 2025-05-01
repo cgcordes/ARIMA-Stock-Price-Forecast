@@ -31,7 +31,7 @@ A Streamlit-based web application that fetches daily stock closing prices via th
 
 ## Installation
 
-1. **Clone this repository**  
+1. ### **Clone this repository**  
    ```bash
    git clone https://github.com/your-username/arima-stock-forecast.git
    cd arima-stock-forecast
